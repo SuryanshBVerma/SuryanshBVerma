@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SuryanshBVerma<br>🌱 I’m currently learning Fullstack Development <br>⚡Current skills: Web Dev, Android, AI / ML
+👋 Hi, I’m @SuryanshBVerma<br>🌱 I’m currently learning Fullstack Development <br>⚡Current skills: Web Dev, AI 
 
 
 ## 🌐 Socials:
