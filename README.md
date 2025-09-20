@@ -14,112 +14,131 @@
 
 
 
-# 💻 Tech Stack:
+### 💻 Programming Languages  
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://www.java.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" /><br>JavaScript
     </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" /><br>TypeScript
     </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java" /><br>Java
     </td>
-    <td align="center" width="96">
-      <a href="https://reactjs.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" /><br>Python
     </td>
-    <td align="center" width="96">
-      <a href="https://nextjs.org/">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
+    <td align="center" width="120">
+      <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" width="60" height="60" alt="C++" /><br>C++
     </td>
-    <td align="center" width="96">
-      <a href="https://angular.io/">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://nodejs.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://spring.io/projects/spring-boot">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring Boot" />
-      </a>
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="https://tailwindcss.com/">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://kubernetes.io/">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/computers-mobile-hardware/artificial-intelligence-ai-chip-icon.png" width="48" height="48" alt="AI/ML" />
-      </a>
-      <br>AI / ML
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="SQL" /><br>SQL
     </td>
   </tr>
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SuryanshBVerma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SuryanshBVerma&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryanshBVerma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### ⚙️ Frameworks & Libraries  
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" height="60" alt="Angular" /><br>Angular
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60" alt="React" /><br>React
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="60" height="60" alt="Next.js" /><br>Next.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60" alt="Express.js" /><br>Express.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js" /><br>Node.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" height="60" alt="Redux" /><br>Redux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="60" height="60" alt="TailwindCSS" /><br>TailwindCSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://axios-http.com/assets/logo.svg" width="60" height="60" alt="Axios" /><br>Axios
+    </td>
+  </tr>
+</table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SuryanshBVerma&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+### 🛠️ Developer Tools  
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="60" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman" /><br>Postman
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="60" height="60" alt="Jenkins" /><br>Jenkins
+    </td>
+    <td align="center" width="120">
+      <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="60" height="60" alt="SonarQube" /><br>SonarQube
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60" height="60" alt="REST API" /><br>REST API
+    </td>
+  </tr>
+</table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SuryanshBVerma&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🧠 Large Language Models (LLMs)  
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="60" height="60" alt="GPT" /><br>GPT
+    </td>
+    <td align="center" width="120">
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" width="60" height="60" alt="Gemini" /><br>Gemini
+    </td>
+    <td align="center" width="120">
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="60" height="60" alt="Claude" /><br>Claude
+    </td>
+    <td align="center" width="120">
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ollama-icon.png" width="60" height="60" alt="Ollama" /><br>Ollama
+    </td>
+  </tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=SuryanshBVerma&icon=2&color=1)](https://visitcount.itsvg.in)
+### 🎯 Orchestration  
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/><br> Kubernetes
+    </td>
+    <td align="center" width="120">
+      <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" width="50" height="50" alt="Airflow" /><br>Airflow
+    </td>
+  </tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ☁️ Databases & Cloud  
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="120">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/><br>Postgres
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" height="60" alt="Firebase" /><br>Firebase
+    </td>
+  </tr>
+</table>
+
